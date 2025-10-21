@@ -22,14 +22,14 @@ export default function Home() {
             { name: "About", id: "about" },
             { name: "Contact", id: "contact" },
           ]}
-          brandName="dqwfqwf"
+          brandName="MVP SUBHA"
           button={{ text: "Visit Us", href: "https://carshop.com" }}
         />
       </div>
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="qwfqwfqwfqwfqwfwqf"
-          description="qwfqwfqfqwfwqfq"
+          title="Hey there Hello"
+          description="NICE TO MEET YA ALL"
           imageSrc={assetMap.find(a => a.id === "hero-image")?.url}
           buttons={[
             { text: "Browse Cars", href: "products" },
