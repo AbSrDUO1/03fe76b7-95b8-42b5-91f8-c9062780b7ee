@@ -28,8 +28,8 @@ export default function Home() {
       </div>
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Welcome to CarShop"
-          description="Explore our wide range of premium cars and services."
+          title="qwfqwfqwfqwfqwfwqf"
+          description="qwfqwfqfqwfwqfq"
           imageSrc={assetMap.find(a => a.id === "hero-image")?.url}
           buttons={[
             { text: "Browse Cars", href: "products" },
