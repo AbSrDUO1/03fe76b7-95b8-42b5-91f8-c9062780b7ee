@@ -22,7 +22,7 @@ export default function Home() {
             { name: "About", id: "about" },
             { name: "Contact", id: "contact" },
           ]}
-          brandName="CarShop"
+          brandName="dqwfqwf"
           button={{ text: "Visit Us", href: "https://carshop.com" }}
         />
       </div>
